@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Recetas de casa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        header {
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+        }
+
+        h1 {
+            font-size: 36px;
+            text-align: center;
+            margin: 0;
+        }
+
+        main {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .recipe {
+            margin-bottom: 30px;
+        }
+
+        .recipe-title {
+            font-size: 24px;
+            color: #333;
+            margin: 0;
+        }
+
+        .recipe-image {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .recipe-instructions {
+            font-size: 16px;
+            color: #666;
+            margin-top: 0;
+        }
+
+        .highlight {
+            list-style-type: decimal;
+            padding-left: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            padding: 10px;
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Recetas de casa</h1>
+    </header>
+    <main>
+        <div class="recipe">
+            <h2 class="recipe-title">Ensaladilla Rusa</h2>
+            <img class="recipe-image" src="https://www.cocinatis.com/archivos/202207/ensaladilla-rusa-origen-receta_desktop_horizontal_full_width.jpg" alt="Ensaladilla Rusa">
+            <p class="recipe-instructions">Método de acción:</p>
+            <ol class="highlight">
+                <li>Preparación de los ingredientes:
+                    <ul>
+                        <li>Patatas</li>
+                        <li>Zanahorias</li>
+                        <li>Huevo</li>
+                        <li>Mayonesa</li>
+                    </ul>
+                </li>
+                <li>Hervir los alimentos necesarios:
+                    <ul>
+                        <li>Huevos</li>
+                        <li>Patatas</li>
+                        <li>Zanahorias</li>
+                    </ul>
+                </li>
+                <li>Coger un bol de cristal donde mezclar los alimentos</li>
+            </ol>
+        </div>
+        <div class="recipe">
+            <h2 class="recipe-title">Macarrones con tomate y queso</h2>
+            <img class="recipe-image" src="https://cdn6.recetasdeescandalo.com/wp-content/uploads/2020/05/Macarrones-con-tomate-casero.-Receta-muy-sabrosa-y-sencilla-1.jpg" alt="Macarrones con tomate y queso">
+            <p class="recipe-instructions">Método de acción:</p>
+            <ol class="highlight">
+                <li>Preparación de los ingredientes:
+                    <ul>
+                        <li>Pasta</li>
+                        <li>Tomate frito</li
+
+>
+                        <li>Queso</li>
+                        <li>Aceite y Sal</li>
+                    </ul>
+                </li>
+                <li>Hervir los alimentos necesarios:
+                    <ul>
+                        <li>Pasta durante 20 minutos</li>
+                        <li>Tomate frito</li>
+                    </ul>
+                </li>
+                <li>Mezclar el tomate frito con la pasta</li>
+                <li>Añadir el queso y hacer que se funda con la pasta</li>
+            </ol>  
+        </div>
+        <div class="recipe">
+            <h2 class="recipe-title">Arroz con tomate</h2>
+            <img class="recipe-image" src="https://www.divinacocina.es/wp-content/uploads/arroz-con-tomate.jpg" alt="Arroz con tomate">
+            <p class="recipe-instructions">Método de acción:</p>
+            <ol class="highlight">
+                <li>Preparación de los ingredientes:
+                    <ul>
+                        <li>Pasta</li>
+                        <li>Tomate frito</li>
+                        <li>Queso</li>
+                        <li>Aceite y Sal</li>
+                    </ul>
+                </li>
+                <li>Hervir los alimentos necesarios:
+                    <ul>
+                        <li>Pasta durante 20 minutos</li>
+                        <li>Tomate frito</li>
+                    </ul>
+                </li>
+                <li>Mezclar el tomate frito con la pasta</li>
+                <li>Añadir el queso y hacer que se funda con la pasta</li>
+            </ol> 
+        </div>
+        <div class="recipe">
+            <h2 class="recipe-title">Arroz caldoso (portugués)</h2>
+            <img class="recipe-image" src="https://cocina-casera.com/wp-content/uploads/2016/10/arroz-caldoso.jpeg" alt="Arroz caldoso">
+            <p class="recipe-instructions">Método de acción:</p>
+            <ol class="highlight">
+                <li>Preparación de los ingredientes:
+                    <ul>
+                        <li>Arroz basmati</li>
+                        <li>Caldo de pollo</li>
+                        <li>Conejo</li>
+                        <li>Verduras
+                            <ul>
+                                <li>Pimiento verde</li>
+                                <li>Pimiento rojo</li>
+                                <li>Patatas</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+                <li>Hervir los alimentos necesarios:
+                    <ul>
+                        <li>Arroz basmati</li>
+                        <li>Verduras</li>
+                    </ul>
+                </li>
+                <li>Mezclar verduras hervidas con el arroz en una misma cazuela</li>
+                <li>Añadir las especias y la sal</li>
+                <li>¡A comer!</li>
+            </ol> 
+        </div>
+        <div class="recipe">
+            <h2 class="recipe-title">Arroz negro</h2>
+            <img class="recipe-image" src="https://recetinas.com/wp-content/uploads/2017/08/arroz-negro-tradicional.jpg" alt="Arroz negro">
+            <p class="recipe-instructions">Método de acción:</p>
+            <ol class="highlight">
+                <li>Preparación de los ingredient
+
+es:
+                    <ul>
+                        <li>Arroz</li>
+                        <li>Calamar</li>
+                        <li>Mejillones</li>
+                        <li>Pimiento rojo</li>
+                        <li>Cebolla</li>
+                    </ul>
+                </li>
+                <li>Saltear la cebolla y el pimiento rojo</li>
+                <li>Añadir el calamar y los mejillones</li>
+                <li>Añadir el arroz y el caldo de pescado</li>
+                <li>Cocinar durante 20 minutos</li>
+            </ol> 
+        </div>
+        <div class="recipe-section">
+            <h2 class="recipe-title">Segundos platos</h2>
+            <p class="recipe-description">¡Próximamente más recetas de segundos platos!</p>
+        </div>
+    
+        <div class="recipe-section">
+            <h2 class="recipe-title">Postres</h2>
+            <p class="recipe-description">¡Próximamente más recetas de postres!</p>
+        </div>
+    
+        <p class="sources">Fuentes de algunas de las recetas:<br>
+            <a href="https://www.hogarmania.com/cocina/recetas/ensaladas-verduras/ensaladilla-rusa-3145.html" target="_blank">Ensaladilla Rusa de Karlos Arguiñano</a> <br>
+            <a href="https://www.directoalpaladar.com/recetas-de-pasta/receta-mejores-macarrones-tomate-buenos-que-abuela-aprobaria" target="_blank">Macarrones con tomate y queso</a>
+            <a href="https://www.divinacocina.es/arroz-con-tomate-de-abuela-maria/"
+        </p>
+    </main>
+    <footer>
+        <p>&copy; 2023 Recetas de casa. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
